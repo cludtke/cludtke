@@ -59,7 +59,7 @@
 ## 📬 Contato
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#7310011a0007101b1a161f061707181633141e121a1f5d101c1e">
+    <a href="/cdn-cgi/l/email-protection#7310011a0007101b1a161f061707181633141e121a1f5d101c1e">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/cludtke">
