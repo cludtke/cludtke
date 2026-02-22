@@ -59,9 +59,7 @@
 ## 📬 Contato
 
 <p align="center">
-    <a href="/cdn-cgi/l/email-protection#7310011a0007101b1a161f061707181633141e121a1f5d101c1e">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  📧 E-mail: cristchieludtke@gmail.com
   <a href="https://github.com/cludtke">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
