@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 **Formada em Desenvolvimento Web Fullstack** e estudando **Infraestrutura Microsoft**
+- 🎓 **Formada em Desenvolvimento Web Fullstack**
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - 💡 Interesse em desenvolvimento web e administração de sistemas
 - 📍 Portugal - Lisboa
